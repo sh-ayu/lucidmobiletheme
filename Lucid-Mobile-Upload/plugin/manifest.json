@@ -1,14 +1,14 @@
 {
   "name": "Lucid Mobile Settings",
   "description": "Spotifyの曲・ジャケットに背景と配色を連動。画像解析は端末内で行い、標準設定から切り替えます。音声解析は含みません。",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "authors": [
     {
       "name": "Lucid mobile port"
     }
   ],
   "main": "index.js",
-  "hash": "47ced858820bf02d5361a3462e712d2b440be48d5f8b016b3c4d257d85f62331",
+  "hash": "50c4dcece0bd754c46d34d6f48629e379b2c47a9d77a4e219efddb089683d65d",
   "vendetta": {
     "icon": "PaintPaletteIcon"
   }
