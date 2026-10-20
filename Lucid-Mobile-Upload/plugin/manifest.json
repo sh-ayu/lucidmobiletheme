@@ -1,14 +1,14 @@
 {
   "name": "Lucid Mobile Settings",
   "description": "Lucidの色・静止背景を標準設定でカスタマイズします。曲連動・音声解析は含みません。",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "authors": [
     {
       "name": "Lucid mobile port"
     }
   ],
   "main": "index.js",
-  "hash": "fa7aa0a17ca68dfcddf26cb24d98714852e0a2e6ebb060efa2cff7c29c44e51d",
+  "hash": "326ccb84ce70fbfd6c450c2e705d125fda545800ba0349b22eb6e955ce58c58f",
   "vendetta": {
     "icon": "PaintPaletteIcon"
   }
