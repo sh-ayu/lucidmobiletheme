@@ -342,6 +342,226 @@
       "#30372f66",
       "#30372f66",
       "#30372f66"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#091009",
+      "#091009",
+      "#091009"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "CHANNEL_BACKGROUND_DEFAULT": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "MOBILE_ACTIONSHEET_BACKGROUND": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "#252c24",
+      "#252c24",
+      "#252c24"
+    ],
+    "MOBILE_KEYBOARD_PANEL_BACKGROUND": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "MOBILE_KEYBOARD_GAP_BACKGROUND": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "TEXT_STRONG": [
+      "#e0e4db",
+      "#e0e4db",
+      "#e0e4db"
+    ],
+    "MOBILE_TEXT_HEADING_PRIMARY": [
+      "#e0e4db",
+      "#e0e4db",
+      "#e0e4db"
+    ],
+    "INTERACTIVE_TEXT_HOVER": [
+      "#e0e4db",
+      "#e0e4db",
+      "#e0e4db"
+    ],
+    "INTERACTIVE_TEXT_ACTIVE": [
+      "#e0e4db",
+      "#e0e4db",
+      "#e0e4db"
+    ],
+    "INTERACTIVE_ICON_HOVER": [
+      "#e0e4db",
+      "#e0e4db",
+      "#e0e4db"
+    ],
+    "INTERACTIVE_ICON_ACTIVE": [
+      "#e0e4db",
+      "#e0e4db",
+      "#e0e4db"
+    ],
+    "TEXT_SUBTLE": [
+      "#c1c9be",
+      "#c1c9be",
+      "#c1c9be"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#c1c9be",
+      "#c1c9be",
+      "#c1c9be"
+    ],
+    "ICON_DEFAULT": [
+      "#c1c9be",
+      "#c1c9be",
+      "#c1c9be"
+    ],
+    "INPUT_PLACEHOLDER_TEXT_DEFAULT": [
+      "#c1c9be",
+      "#c1c9be",
+      "#c1c9be"
+    ],
+    "BACKGROUND_MOD_SUBTLE": [
+      "#232922",
+      "#232922",
+      "#232922"
+    ],
+    "MESSAGE_BACKGROUND_HOVER": [
+      "#232922",
+      "#232922",
+      "#232922"
+    ],
+    "BACKGROUND_MOD_NORMAL": [
+      "#292f28",
+      "#292f28",
+      "#292f28"
+    ],
+    "TABLEROW_BACKGROUND_PRESSED": [
+      "#292f28",
+      "#292f28",
+      "#292f28"
+    ],
+    "CARD_SECONDARY_BACKGROUND_ACTIVE": [
+      "#292f28",
+      "#292f28",
+      "#292f28"
+    ],
+    "BACKGROUND_MOD_STRONG": [
+      "#283528",
+      "#283528",
+      "#283528"
+    ],
+    "REACTION_BACKGROUND_REACTED_DEFAULT": [
+      "#283528",
+      "#283528",
+      "#283528"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#2e342d",
+      "#2e342d",
+      "#2e342d"
+    ],
+    "BORDER_MUTED": [
+      "#2e342d",
+      "#2e342d",
+      "#2e342d"
+    ],
+    "CARD_BORDER_DEFAULT": [
+      "#2e342d",
+      "#2e342d",
+      "#2e342d"
+    ],
+    "STANDALONE_CHANNEL_HEADER_BORDER": [
+      "#2e342d",
+      "#2e342d",
+      "#2e342d"
+    ],
+    "REACTION_BORDER_DEFAULT": [
+      "#2e342d",
+      "#2e342d",
+      "#2e342d"
+    ],
+    "REACTION_BORDER_REACTED_DEFAULT": [
+      "#2e342d",
+      "#2e342d",
+      "#2e342d"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "CARD_SECONDARY_BACKGROUND_DEFAULT": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "EMBED_BACKGROUND_ALTERNATE": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "MOBILE_EMBED_BACKGROUND_DEFAULT": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "MOBILE_THREAD_EMBED_BACKGROUND": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "REACTION_BACKGROUND_DEFAULT": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "TABLEROW_BACKGROUND_DEFAULT": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "MOBILE_LEGACY_BUTTON_SECONDARY_BACKGROUND_DEFAULT": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "MOBILE_LEGACY_BUTTON_SECONDARY_BORDER_DEFAULT": [
+      "#2e342d",
+      "#2e342d",
+      "#2e342d"
+    ],
+    "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
+      "#9cd49f33",
+      "#9cd49f33",
+      "#9cd49f33"
     ]
   },
   "rawColors": {
