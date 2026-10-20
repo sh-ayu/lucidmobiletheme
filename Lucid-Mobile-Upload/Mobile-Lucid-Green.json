@@ -53,6 +53,61 @@
       "#091009",
       "#091009"
     ],
+    "ANDROID_NAVIGATION_BAR_BACKGROUND": [
+      "#091009",
+      "#091009",
+      "#091009"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#091009",
+      "#091009",
+      "#091009"
+    ],
+    "BG_BACKDROP_NO_OPACITY": [
+      "#091009",
+      "#091009",
+      "#091009"
+    ],
+    "REDESIGN_ONLY_BACKGROUND_SUNKEN": [
+      "#091009",
+      "#091009",
+      "#091009"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "REDESIGN_ONLY_BACKGROUND_DEFAULT": [
+      "#171d16",
+      "#171d16",
+      "#171d16"
+    ],
+    "REDESIGN_ONLY_BACKGROUND_ACTIVE": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "REDESIGN_ONLY_BACKGROUND_OVERLAY": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "REDESIGN_ONLY_BACKGROUND_RAISED": [
+      "#1b211a",
+      "#1b211a",
+      "#1b211a"
+    ],
+    "CHAT_BORDER": [
+      "#2e342d",
+      "#2e342d",
+      "#2e342d"
+    ],
     "BACKGROUND_TERTIARY": [
       "#060606",
       "#060606",
